@@ -3,7 +3,7 @@ This script uses OpenAI's CLIP model to find "ocean" photos in a local folder.
 
 ## Setup
 1. Open PowerShell
-2. Clone the repo: `git clone <your-url>`
+2. Clone the repo: `git clone https://github.com/jainasoja/photo_detection.git`
 3. Create a virtual environment: `python -m venv venv`
 4. Activate it:
    - Windows: `.\venv\Scripts\activate`
